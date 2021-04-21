@@ -1,0 +1,7 @@
+C:\Users\LaFamily\source\repos\Instituto_App\Instituto\obj\Debug\Instituto.csprojAssemblyReference.cache
+C:\Users\LaFamily\source\repos\Instituto_App\Instituto\obj\Debug\Instituto.csproj.CoreCompileInputs.cache
+C:\Users\LaFamily\source\repos\Instituto_App\Instituto\bin\Debug\Instituto.exe.config
+C:\Users\LaFamily\source\repos\Instituto_App\Instituto\bin\Debug\Instituto.exe
+C:\Users\LaFamily\source\repos\Instituto_App\Instituto\bin\Debug\Instituto.pdb
+C:\Users\LaFamily\source\repos\Instituto_App\Instituto\obj\Debug\Instituto.exe
+C:\Users\LaFamily\source\repos\Instituto_App\Instituto\obj\Debug\Instituto.pdb
